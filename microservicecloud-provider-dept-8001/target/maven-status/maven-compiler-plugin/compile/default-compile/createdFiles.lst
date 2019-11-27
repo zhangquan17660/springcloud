@@ -1,0 +1,5 @@
+com\zq\springcloud\MicroservicecloudProviderDept8001Application.class
+com\zq\springcloud\controller\DeptController.class
+com\zq\springcloud\dao\DeptDao.class
+com\zq\springcloud\service\DeptService.class
+com\zq\springcloud\service\impl\DeptServiceImpl.class
